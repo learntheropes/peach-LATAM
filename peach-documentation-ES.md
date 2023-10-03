@@ -29,4 +29,5 @@ Solo su socio de intercambio puede leer los datos relevantes para el contrato de
 Relacionado con el libro de pedidos (volumen, ofertas, intercambios, disputas, etc.)
 Relacionado con la calificación reputacional del usuario (Calificación de socio comercial + Acciones del usuario en la aplicación).  
 Firebase y Google Analytics.   
-Utilizamos un proveedor externo, Zammad, para administrar el sistema de tickets y de disputas.  
+Utilizamos un proveedor externo, Zammad, para administrar el sistema de tickets y de disputas.
+
